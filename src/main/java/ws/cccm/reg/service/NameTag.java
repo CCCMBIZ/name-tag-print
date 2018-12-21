@@ -6,9 +6,9 @@ public class NameTag implements Serializable {
 
 	private static final long serialVersionUID = 2310622123753972442L;
 
-	private String conferenceName = "二零一六基督徒大會";
+	private String conferenceName = "二零一八基督徒大會";
 
-	private String graceRow = "GRACE 2016";
+	private String graceRow = "GRACE 2018";
 
 	private boolean isGrace = false;
 
